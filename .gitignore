@@ -21,3 +21,20 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+    
+# Ignore Play! working directory #
+.idea*
+logs
+project/project
+project/target
+target
+tmp
+.history
+dist
+*.iml
+.classpath
+.project
+.settings
+.DS_Store
